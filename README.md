@@ -20,13 +20,9 @@ MCA Graduate passionate about building full-stack web applications and developin
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind,ts)](https://skillicons.dev)
 
-## ⚙️ Backend Development
+## ⚙️ Backend & Databases
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
-
-## 🗄️ Database & Caching
-
-[![Database](https://skillicons.dev/icons?i=mongodb,mysql,redis)](https://skillicons.dev)
+[![Backend & Databases](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)](https://skillicons.dev)
 
 ## 🤖 AI, ☁️ Cloud & 🛠️ Developer Tools
 
