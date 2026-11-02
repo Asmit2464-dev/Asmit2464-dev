@@ -35,9 +35,16 @@ MCA Graduate passionate about building full-stack web applications and developin
 
 ## 🤖 AI, ☁️ Cloud & 🛠️ Developer Tools
 
-[![My Skills](https://skillicons.dev/icons?i=gemini,docker,aws,git,github,vscode,postman,linux,vercel,)](https://skillicons.dev)
+[![Developer Tools](https://skillicons.dev/icons?i=gemini,docker,aws,git,github,vscode,postman,linux)](https://skillicons.dev)
 
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com)
+
+**AI & LLM**
+- Generative AI
+- LLM API Integration
+- Prompt Engineering
+- Google Gemini API
 
 **AI & LLM**
 - Generative AI
