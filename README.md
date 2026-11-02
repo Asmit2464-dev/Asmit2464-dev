@@ -22,7 +22,7 @@ MCA Graduate passionate about building full-stack web applications and developin
 
 ## ⚙️ Backend Development
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ## 🗄️ Database & Caching
 
@@ -45,40 +45,9 @@ MCA Graduate passionate about building full-stack web applications and developin
 
 ---
 
-## 🚀 Featured Projects
 
-### 1. CareerPilot AI
-AI-powered career assistance platform that helps users analyze resumes, identify skill gaps and prepare for interviews.
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Gemini API.
 
-[View Repository](https://github.com/Asmit2464-dev/CareerPilot-Ai)
-
-### 2. Plag-Check
-Full-stack plagiarism and content analysis platform for detecting text and web content similarities.
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Python.
-
-[View Repository](https://github.com/Asmit2464-dev)
-
-### 3. Nexus E-commerce
-E-commerce web application with a modern user interface and product browsing experience.
-
-**Tech Stack:** React.js, JavaScript, Tailwind CSS.
-
-[View Repository](https://github.com/Asmit2464-dev/Nexus-ecommerce-)
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmit2464-dev&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit2464-dev&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Asmit2464-dev&theme=github-dark-blue&hide_border=true)
-
----
 
 ## 🧠 Core Computer Science
 
