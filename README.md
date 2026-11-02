@@ -2,8 +2,7 @@
 
 ### MERN Stack Developer
 
-MCA Graduate passionate about building full-stack web applications with hands-on experience building web applications using React.js, Node.js, Express.js, and
-MongoDB. Experienced in integrating Generative AI and Large Language Model (LLM) APIs to build AI-powered web applications. I enjoy learning new technologies, solving problems and building practical projects.
+MCA Graduate passionate about building full-stack web applications using React.js, Node.js, Express.js, and MongoDB. Experienced in integrating Generative AI and Large Language Model (LLM) APIs to build AI-powered web applications. I enjoy learning new technologies, solving problems and building practical projects.
 
 - 🔭 Currently focusing on MERN Stack and Backend Engineering.
 - 🌱 Exploring TypeScript, Redis, Docker and AWS.
