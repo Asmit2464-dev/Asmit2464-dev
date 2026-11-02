@@ -33,9 +33,17 @@ MCA Graduate passionate about building full-stack web applications and developin
 - Jest
 - Supertest
 
-## 🛠️ Tools & DevOps
+## 🤖 AI, ☁️ Cloud & 🛠️ Developer Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,linux,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gemini,docker,aws,git,github,vscode,postman,linux,vercel,)](https://skillicons.dev)
+
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com)
+
+**AI & LLM**
+- Generative AI
+- LLM API Integration
+- Prompt Engineering
+- Google Gemini API
 
 ## 🤖 AI & LLM
 
