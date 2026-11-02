@@ -22,20 +22,15 @@ MCA Graduate passionate about building full-stack web applications and developin
 
 ## ⚙️ Backend Development
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ## 🗄️ Database & Caching
 
 [![Database](https://skillicons.dev/icons?i=mongodb,mysql,redis)](https://skillicons.dev)
 
-## 🧪 Testing
-
-- Jest
-- Supertest
-
 ## 🤖 AI, ☁️ Cloud & 🛠️ Developer Tools
 
-[![Developer Tools](https://skillicons.dev/icons?i=gemini,docker,aws,git,github,vscode,postman,linux)](https://skillicons.dev)
+[![Developer Tools](https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman,linux)](https://skillicons.dev)
 
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com)
@@ -46,23 +41,7 @@ MCA Graduate passionate about building full-stack web applications and developin
 - Prompt Engineering
 - Google Gemini API
 
-**AI & LLM**
-- Generative AI
-- LLM API Integration
-- Prompt Engineering
-- Google Gemini API
-
-## 🤖 AI & LLM
-
-- Generative AI
-- Gemini API Integration
-- Prompt Engineering
-
 ---
-
-
-
-
 
 ## 🧠 Core Computer Science
 
