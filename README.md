@@ -1,14 +1,15 @@
 # Hey, I'm Asmit Bhatt 👋
 
-### MERN Stack Developer | Backend Development Enthusiast
+### MERN Stack Developer
 
-MCA Graduate passionate about building full-stack web applications and developing reliable backend systems. I enjoy learning new technologies, solving problems and building practical projects.
+MCA Graduate passionate about building full-stack web applications with hands-on experience building web applications using React.js, Node.js, Express.js, and
+MongoDB. Experienced in integrating Generative AI and Large Language Model (LLM) APIs to build AI-powered web applications. I enjoy learning new technologies, solving problems and building practical projects.
 
 - 🔭 Currently focusing on MERN Stack and Backend Engineering.
 - 🌱 Exploring TypeScript, Redis, Docker and AWS.
 - 💻 Practicing Data Structures & Algorithms in Java.
 - 🚀 Interested in Backend Development, System Design and FinTech.
-- 🎯 Working towards becoming a skilled Software Developer.
+- 🎯 Learning how to build software that is reliable, maintainable, and scalable.
 
 ---
 
